@@ -1,0 +1,16 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#EAF3F8"/>
+  <rect x="60" y="60" width="780" height="1080" rx="42" fill="url(#paint0_linear)"/>
+  <circle cx="246" cy="196" r="126" fill="#F8FBFD" fill-opacity="0.6"/>
+  <path d="M156 878C248 730 350 642 470 642C590 642 680 724 754 878V1062H156V878Z" fill="#E6DBD1"/>
+  <path d="M238 254C310 198 392 170 482 170C620 170 720 256 720 388C720 516 616 608 486 608C358 608 280 500 238 254Z" fill="#F8FBFD" fill-opacity="0.54"/>
+  <path d="M144 672L744 210" stroke="#F8FBFD" stroke-width="12" stroke-linecap="round" opacity="0.32"/>
+  <text x="120" y="166" fill="#F8FBFD" font-family="Georgia, serif" font-size="40" letter-spacing="0.28em">CIDADE</text>
+  <text x="120" y="1022" fill="#4A4F55" font-family="Georgia, serif" font-size="86">arquitetura</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="450" y1="60" x2="450" y2="1140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BDD4E4"/>
+      <stop offset="1" stop-color="#8A6656"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#F4EBDD"/>
+  <rect x="60" y="60" width="780" height="780" rx="38" fill="url(#paint0_linear)"/>
+  <circle cx="250" cy="214" r="130" fill="#FFF8F1" fill-opacity="0.55"/>
+  <path d="M140 670C234 528 334 446 442 446C554 446 656 526 756 670V840H140V670Z" fill="#F9F0E7"/>
+  <path d="M272 230C334 186 404 164 478 164C584 164 668 234 668 324C668 418 592 496 494 496C394 496 314 418 272 230Z" fill="#FFF9F4" fill-opacity="0.62"/>
+  <path d="M168 628C288 590 420 544 564 492C642 462 700 434 736 410" stroke="#92553A" stroke-width="18" stroke-linecap="round" opacity="0.48"/>
+  <text x="118" y="152" fill="#FFF8F1" font-family="Georgia, serif" font-size="36" letter-spacing="0.28em">EVENTO</text>
+  <text x="118" y="768" fill="#5D4333" font-family="Georgia, serif" font-size="82">movimento</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="450" y1="60" x2="450" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0C9AF"/>
+      <stop offset="1" stop-color="#AE6B4B"/>
+    </linearGradient>
+  </defs>
+</svg>

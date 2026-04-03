@@ -1,0 +1,17 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" fill="#EAF2F6"/>
+  <rect x="56" y="56" width="788" height="1088" rx="42" fill="url(#paint0_linear)"/>
+  <circle cx="670" cy="260" r="174" fill="#FFF8F0" fill-opacity="0.7"/>
+  <path d="M132 930C242 784 336 696 458 664C587 630 690 710 760 850V1092H132V930Z" fill="#E6D6C9"/>
+  <path d="M228 248C314 176 399 142 484 142C620 142 724 238 724 370C724 496 636 590 512 590C370 590 284 486 228 248Z" fill="#F7FBFD" fill-opacity="0.56"/>
+  <path d="M128 134C242 108 354 94 464 94C578 94 690 108 796 136" stroke="#F7FBFD" stroke-width="12" stroke-linecap="round" opacity="0.48"/>
+  <text x="124" y="166" fill="#F8FBFD" font-family="Georgia, serif" font-size="42" letter-spacing="0.28em">CIDADE</text>
+  <text x="124" y="1028" fill="#4B4F54" font-family="Georgia, serif" font-size="84">luz urbana</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="450" y1="56" x2="450" y2="1144" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BFD6E6"/>
+      <stop offset="0.52" stop-color="#D6D5CF"/>
+      <stop offset="1" stop-color="#B97A56"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" fill="#E7F0E3"/>
+  <rect x="54" y="54" width="792" height="792" rx="40" fill="url(#paint0_linear)"/>
+  <circle cx="698" cy="230" r="124" fill="#FAFCF8" fill-opacity="0.55"/>
+  <path d="M146 662C238 544 344 484 460 484C574 484 676 542 758 662V842H146V662Z" fill="#E0E9DA"/>
+  <path d="M264 220C326 178 394 156 466 156C578 156 658 226 658 318C658 412 584 486 488 486C388 486 302 410 264 220Z" fill="#FBFDF9" fill-opacity="0.56"/>
+  <path d="M168 326C258 276 336 252 402 252" stroke="#F6FBF4" stroke-width="14" stroke-linecap="round" opacity="0.42"/>
+  <text x="118" y="144" fill="#FAFCF8" font-family="Georgia, serif" font-size="36" letter-spacing="0.28em">CAMPO</text>
+  <text x="118" y="778" fill="#4D5549" font-family="Georgia, serif" font-size="82">horizonte</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="450" y1="54" x2="450" y2="846" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9D9C2"/>
+      <stop offset="1" stop-color="#7D9B72"/>
+    </linearGradient>
+  </defs>
+</svg>
